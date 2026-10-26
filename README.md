@@ -43,4 +43,5 @@ I specialize in Angular, TypeScript, JavaScript, RxJS, and reusable UI component
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashwini23061990)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwini-palandurkar-a864bb145/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/ashwini-palandurkar-a864bb145/)
