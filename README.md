@@ -45,6 +45,6 @@ I specialize in Angular, TypeScript, JavaScript, RxJS, and reusable UI component
 Feel free to email me at [ashwinipalandurkar24@gmail.com](mailto:ashwinipalandurkar24@gmail.com).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwini-palandurkar-a864bb145/)
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwiniPalandurkar)
+[![GitHub]](https://github.com/AshwiniPalandurkar)
 
 
